@@ -1,0 +1,26 @@
+body {
+  background-color: var(--primary-white-color);
+  color: var(--text-color);
+  font-family: 'Roboto', sans-serif;
+  letter-spacing: 0.03em;
+}
+
+/* Сброс точек маркеров */
+
+.no-marker {
+  list-style: none;
+}
+
+/* Сброс наклонного шрифта в тэге address */
+
+.normal-style {
+  font-style: normal;
+}
+
+/* Сброс подчеркивания у ссылок*/
+
+.no-underline {
+  text-decoration: none;
+  transition-duration: 250ms;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}

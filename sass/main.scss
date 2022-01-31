@@ -1,0 +1,31 @@
+@import './utils/variables';
+@import './base/reset';
+@import './base/common';
+@import './utils/hidden';
+
+//COMPONENTS
+@import './components/container';
+@import './components/section';
+@import './components/modal';
+
+//LAYOUT
+@import './layout/header';
+@import './layout/header-logo';
+@import './layout/footer-logo';
+@import './layout/hero';
+@import './layout/sections-index';
+@import './layout/footer';
+@import './layout/portfolio/our-project';
+@import './layout/portfolio/button-filters';
+
+/* цвет заголовков #212121*/
+/* цвет текста #757575*/
+/* цвет текста в секции Hero, на кнопке в секции Hero, на логотипе #FFFFFF*/
+/* цвет основного бэкграунда страниц #FFFFFF*/
+/* цвет имейла и телефона в футере rgba(255, 255, 255, 0.6)*/
+/* цвет лого в хедере #2196F3 и #000000*/
+/* цвет лого в футере #2196F3 и #FFFFFF*/
+/* цвет ховера кнопки в секции Hero #188ce8*/
+/* цвет бэкграунда секции Наша команда #F5F4FA*/
+/* цвет бэкграунда секции Hero и футера #*#2F303A*/
+/* синий цвет акцента #2196f3*/
